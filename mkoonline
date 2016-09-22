@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Mkoonline search</title>
+
+<body>
+<from name ="search">
+<label> </label>
+<input type="text"=search>
+<input type"button" value="save">
+</form>
+</head>
+</html>
